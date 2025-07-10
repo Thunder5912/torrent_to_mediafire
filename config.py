@@ -1,0 +1,5 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+MEDIAFIRE_EMAIL = os.getenv("MEDIAFIRE_EMAIL")
+MEDIAFIRE_PASSWORD = os.getenv("MEDIAFIRE_PASSWORD")
